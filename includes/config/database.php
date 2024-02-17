@@ -1,7 +1,7 @@
 <?php
 
 function conectarDB() : mysqli {
-    $db = mysqli_connect('localhost', 'c1541718_samu', 'vabofoWE75', 'c1541718_samu');
+    $db = mysqli_connect('localhost', 'c1541718samu', 'vabofoWE76', 'c1541718samu');
 
     //Prueba de conexion a DB
     //if($db) {
